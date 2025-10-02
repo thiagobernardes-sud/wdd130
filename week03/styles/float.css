@@ -1,9 +1,9 @@
 main {
     width: 75vw;
     margin: 1rem auto;
-    background-color: #eee;
+    background-color: #eeeeee;
     padding: 1rem;
-    border: 1px solid rgb(0 0 0 / .1);
+    border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 p {
@@ -20,6 +20,8 @@ p {
 footer {
     border-top: 1px solid #555;
     padding-top: 5px;
+    clear: both;
+   
     /* Remove the comment below and observe the results. */
 
     /* clear: both; */
